@@ -137,7 +137,7 @@ Page({
     var obj={
       url: "http://api.heclouds.com/devices/22834365/datapoints?type=3",
       header:{
-      "api-key": "zXUxQaupAumEyFfR8rEX7l9c9Yg=",
+      "api-key": "*************",
         "Content-Type": "application/json"
       },
       method: "post",
