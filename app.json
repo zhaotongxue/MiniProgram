@@ -1,11 +1,7 @@
 {
   "pages": [
     
-    "pages/Play/play",
-    "pages/index/index",
-    "pages/MainHandle/MainHandle",
-    "pages/tianqi/tianqi",
-    "pages/API-Test/API-Test"
+    "pages/Play/play"
   ],
   "window": {
     "backgroundTextStyle": "light",
