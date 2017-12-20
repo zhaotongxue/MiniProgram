@@ -1,0 +1,16 @@
+{
+  "pages": [
+    
+    "pages/Play/play",
+    "pages/index/index",
+    "pages/MainHandle/MainHandle",
+    "pages/tianqi/tianqi",
+    "pages/API-Test/API-Test"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
